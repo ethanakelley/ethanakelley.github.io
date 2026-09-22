@@ -4,9 +4,9 @@ title                    : "Ethan Kelley"
 title_separator          : "-"
 name                     : &name "Ethan Kelley"
 description              : &description "Legislative Analyst focused on innovation, regulation, and economic policy."
-url                      : https://ethankelley.github.io
+url                      : https://ethanakelley.github.io
 baseurl                  : ""
-repository               : "ethanakelley/ethankelley.github.io"
+repository               : "ethanakelley/ethanakelley.github.io"
 
 # Site Author - Sidebar Info
 author:
