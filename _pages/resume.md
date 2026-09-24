@@ -15,8 +15,10 @@ redirect_from:
 
 **Predoctoral Scholar** — Knee Regulatory Research Center, Morgantown, WV (Part-Time)
 *August 2025 – Present*
-- Collaborate with colleagues on academic research projects at the intersection of AI and occupational regulation
-- Take on responsibilities beyond the scope of the Legislative Analyst role
+- Co-drafted research papers on artificial intelligence, occupational regulation, and economic freedom with faculty and research colleagues
+- Cleaned and processed AI, occupational licensing, and economic freedom datasets using R and Python
+- Conducted literature reviews on AI, occupational licensing, and economic freedom research
+- Drafted literature review sections for ongoing research projects
 
 **Legislative Analyst** — Knee Regulatory Research Center, Morgantown, WV
 *April 2022 – Present*
