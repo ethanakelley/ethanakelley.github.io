@@ -50,6 +50,17 @@ redirect_from:
 
 ## Projects
 
+**Health Freedom Index: 2026** — Center for Modern Health & Knee Regulatory Research Center
+*May 2026 – June 2026*
+- Collected and coded 50-state regulatory data across 10+ health insurance and health care variables
+- Researched state statutes, administrative codes, and agency guidance on health insurance mandates, benefit requirements, and rating rules
+- Verified primary-source citations against CMS, KFF, and state government databases
+- Applied standardized 1–5 scoring rubrics to quantify state-level regulatory freedom across Medicaid, telepharmacy, and opioid prescribing policy
+- Cross-referenced federal and state sources to resolve conflicting or outdated regulatory information
+- Documented sourcing methodology and flagged data limitations for each coded variable
+
+[Read the report](https://knee.wvu.edu/files/d/c561777b-fbd3-49e9-8a25-455735947c72/2026-health-freedom-index-report.pdf)
+
 **Huntington Area Economic Outlook: 2021-2025** — Bureau of Business & Economic Research, West Virginia University
 *January 2021 – April 2021*
 - Gathered data from state and federal agencies for the Huntington, WV region
@@ -70,7 +81,7 @@ redirect_from:
 - Microsoft Excel
 - Microsoft PowerPoint
 - Google Sheets
-- LaTeX
+- LaTeX (Proficient)
 - Writing
 - Presentation Skills
 - Public Speaking
