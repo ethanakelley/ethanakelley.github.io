@@ -1,6 +1,7 @@
 ---
 title: "Introducing a new state-level occupational licensing requirement database"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-occupational-licensing-database
 excerpt: 'A new state-level database of occupational licensing requirements, developed to support research on licensing policy.'
 date: 2024-01-09
