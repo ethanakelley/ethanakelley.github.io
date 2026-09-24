@@ -1,6 +1,7 @@
 ---
 title: "KRRC Annual Licensing Database Snapshot: 2025"
 collection: publications
+category: databases
 permalink: /publication/2025-licensing-database-snapshot
 excerpt: 'The third annual installment of the Knee Regulatory Research Center''s occupational licensing database, updating all 77 professions from 2024 and adding 19 new professions.'
 date: 2025-12-19
