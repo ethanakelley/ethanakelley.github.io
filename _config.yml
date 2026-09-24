@@ -41,7 +41,9 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-
+  databases:
+    title: 'Databases'
+    
 # Site Settings
 teaser                   :  # Optional teaser image
 breadcrumbs              : false
