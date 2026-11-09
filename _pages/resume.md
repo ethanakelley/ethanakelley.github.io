@@ -63,6 +63,15 @@ redirect_from:
 
 [Read the report](https://knee.wvu.edu/files/d/c561777b-fbd3-49e9-8a25-455735947c72/2026-health-freedom-index-report.pdf)
 
+**Annual Licensing Database Snapshot: 2026** — West Virginia University, Morgantown, WV
+*January 2026 – October 2026*
+- Updated data for all 95 professions from the 2025 release and added data for 5 new professions
+- Gathered data from state laws, administrative codes, agency communications, and licensing board websites
+- Contacted state licensing boards directly by phone or email when information was not publicly available
+- Compiled data into the Knee Regulatory Research Center's Occupational Licensing Database
+
+[Read the snapshot](https://knee.wvu.edu/publications/knee-center-research/2026/10/19/annual-licensing-database-snapshot-2026)
+
 **Huntington Area Economic Outlook: 2021-2025** — Bureau of Business & Economic Research, West Virginia University
 *January 2021 – April 2021*
 - Gathered data from state and federal agencies for the Huntington, WV region
