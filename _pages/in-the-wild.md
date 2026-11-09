@@ -15,11 +15,15 @@ Here's me in the wild — op-eds, commentary, and creative work outside of forma
 
 ## Blog Posts
 
+- ["Occupational Licensing Beyond the Grave: A Look into Necromancer Licensing"](https://knee.wvu.edu/publications/knee-center-blog/2026/11/02/occupational-licensing-beyond-the-grave-a-look-into-necromancer-licensing) — *Knee Regulatory Research Center Blog*, November 2026
+- ["Behind the Snapshot: Third-Party Transparency"](https://knee.wvu.edu/publications/knee-center-blog/2026/09/22/behind-the-snapshot-third-party-transparency) — *Knee Regulatory Research Center Blog*, September 2026
 - ["Behind the Snapshot: Digging into Licensing Transparency"](https://knee.wvu.edu/publications/knee-center-blog/2026/09/11/behind-the-snapshot-digging-into-licensing-transparency) — *Knee Regulatory Research Center Blog*, September 2026
 - ["Understanding Recent Court Cases on Moonshine Distilling"](https://knee.wvu.edu/publications/knee-center-blog/2026/06/12/understanding-recent-court-case-on-moonshine-production) — *Knee Regulatory Research Center Blog*, June 2026
 - ["When Godzilla Breaks Windows"](https://www.econlib.org/when-godzilla-breaks-windows) — *EconLog*, October 2025
 - ["Fortune Tellers: A License Full of Hocus Pocus"](https://knee.wvu.edu/publications/knee-center-blog/2024/10/31/fortune-tellers-a-license-full-of-hocus-pocus) — *Knee Regulatory Research Center*, October 2024 (with Conor Norris)
 - ["The Erlkönig Speaks! Translating Poetry with Python"](https://medium.com/@ethankelley10/the-erlk%C3%B6nig-speaks-translating-poetry-with-python-85afae8ee582) — *Medium*, October 2024
+- ["The Right Price or the Winner's Curse?: Auctioneer Licensing in the U.S."](https://knee.wvu.edu/publications/knee-center-blog/2024/01/16/the-right-price-or-the-winner-s-curse-auctioneer-licensing-in-the-u-s) — *Knee Regulatory Research Center Blog*, January 2024
+- ["Let's Talk Business: Seasons Change — and the Economy Does Too"](https://business.wvu.edu/news-and-events/news/2023/06/27/guest-blog-ethan-kelley) — *WVU John Chambers College of Business and Economics, "Let's Talk Business" Guest Blog Series*, June 2023
 - ["The Economic Hurdles of Fusion"](https://medium.com/@ethankelley10/the-economic-hurdles-of-fusion-c30a0b4792c) — *Medium*, March 2023
 
 ## Creative Work
